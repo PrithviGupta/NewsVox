@@ -1,24 +1,14 @@
 # Alan AI news reader app 📰
-This is a news app that can be controlled by voice commands through a virtual assistant AlanAI.  
-* By using simple voice commands such as "Give me the latest news," "What's up with Bitcoin," or "Tell me the latest news from CNN," the user can get the desired news articles.  
-* There are numerous other commands that can be given to Alan to fetch the required results. Additionally, the app allows Alan to read out headlines and open articles by saying "Open 5" to open the fifth article on the page.  
-* Moreover, the user can engage in small talk with Alan by asking general questions regarding his age or name to check his response. You can find the link to the app in the About section.  
 
-Available Scripts  
-In the project directory, you can run:  
+It is a voice controlled News app that is uses a virtual assistant 'Alan' for reading the news by saying Simple commands like 
+* Give me the latest news--------------->       *This will provide the latest news worldwide*
+* What's up with Bitcoin(or any other topic)------------------>       *This will provide articles related to the topic*
+* Tell me the latest news from CNN(or any other source like BBC news,wired...)----------------->    *This will provide latest from CNN*
 
-npm start  
-Runs the app in the development mode.  
-Open http://localhost:3000 to view it in the browser.  
+Similarly a number of commands can be given to Alan to fetch the required results.
 
-The page will reload if you make edits.  
-You will also see any lint errors in the console.  
+Not just that , This app also allows Alan to read the headlines if the user wants and could also open the Article( Say 'Open 5' to open Article number 5 on the page)
 
-npm test  
-Launches the test runner in the interactive watch mode.  
-See the section about running tests for more information.  
+And wait, you can also have a small talk with Alan if you wish😉 ------> *Try asking general questions regarding his age or name to check his response*
 
-npm run build  
-Builds the app for production to the build folder.  
-It correctly bundles React in production mode and optimizes the build for the best performance.  
- 
+*Link to the app is given in About section*
