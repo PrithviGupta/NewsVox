@@ -1,14 +1,6 @@
-# Alan AI news reader app 📰
+# NewsVox- Conversational Voice Controlled News App using ALAN AI |  📰
 
-It is a voice controlled News app that is uses a virtual assistant 'Alan' for reading the news by saying Simple commands like 
-* Give me the latest news--------------->       *This will provide the latest news worldwide*
-* What's up with Bitcoin(or any other topic)------------------>       *This will provide articles related to the topic*
-* Tell me the latest news from CNN(or any other source like BBC news,wired...)----------------->    *This will provide latest from CNN*
+## Link: https://newsvox-prithvi.netlify.app/  
 
-Similarly a number of commands can be given to Alan to fetch the required results.
-
-Not just that , This app also allows Alan to read the headlines if the user wants and could also open the Article( Say 'Open 5' to open Article number 5 on the page)
-
-And wait, you can also have a small talk with Alan if you wish😉 ------> *Try asking general questions regarding his age or name to check his response*
-
-*Link to the app is given in About section*
+The app is designed to fetch news using voice commands, allowing the user to request the latest news, news by category, term, or source. It utilizes the News API to fetch and display news articles. Additionally, the user can instruct the app to read the headlines and open articles to read and return to the main page. As the headlines are read, the app automatically scrolls down the page.
+The app's user interface is built using React and Material UI, while Alan AI and Alan Studio are used to add voice capabilities to the app. The libraries words-to-numbers and classnames are also utilized. The app is deployed on Netlify.
